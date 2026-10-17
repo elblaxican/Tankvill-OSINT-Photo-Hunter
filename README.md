@@ -1,4 +1,4 @@
-#OSINT-Photo-Hunter# 🕵️ OSINT Photo Hunter
+#Tankvill-OSINT-Photo-Hunter# 🕵️ OSINT Photo Hunter
 
 A multi-platform Open Source Intelligence (OSINT) toolkit designed to locate, verify, and analyze an individual's photographs across the public web. 
 
@@ -31,7 +31,7 @@ This tool combines **search engine dorking**, **direct API polling**, **headless
 
 ### 2. Installation
 ```bash
-git clone https://github.com/elblaxican/osint-photo-hunter.git
+git clone https://github.com/elblaxican/Tankvill-osint-photo-hunter.git
 cd osint-photo-hunter
 
 # Create and activate virtual environment
